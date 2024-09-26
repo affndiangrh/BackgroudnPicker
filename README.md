@@ -5,5 +5,5 @@ HTML CSS JS Sederhana untuk memilih warna background
 ## Cara Gunakan 
 
 ```bash
-git clone
+git clone https://github.com/affndiangrh/BackgroudnPicker.git
 ```
